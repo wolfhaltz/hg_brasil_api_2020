@@ -14,5 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+
+    $hg = new App\Http\Controllers\HG_Brasil_API_Controller();
+    // chamando a função dólar:
+    $dolar = $hg->dolar_quotation();
+
+    return view('welcome', compact('dolar', 'hg'));
 });

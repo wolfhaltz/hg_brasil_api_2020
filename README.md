@@ -1,6 +1,6 @@
-#Cotação do Dólar com a API da HGBrasil
+<h1>Cotação do Dólar com a API da HGBrasil</h1>
 
-###Descrição: Usando api da HGBrasil para retorno da cotação do dólar
+Descrição: Usando api da HGBrasil para retorno da cotação do dólar
 
 O objetivo do projeto é retornar a cotação do dólar.
 

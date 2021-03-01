@@ -1,22 +1,46 @@
-<h1>Cotação do Dólar com a API da HGBrasil</h1>
+# HGBrasil and Laravel: dolar cotation
 
-Descrição: Usando api da HGBrasil para retorno da cotação do dólar
+<b>Made with:</b><br/>
+Laravel
+<br/><br/>
+<b>What is this?</b><br/>
+Dolar cotation site
+<br/><br/>
+<b>Description:</b><br/>
+Used HGBrasil api to return dolar cotation on Laravel. The last time I coded this was on 28/03/2020.
+<br/><br/>
+# Quick links &#128150;
+  
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#HGBrasil-and-Laravel-dolar-cotation)
 
-O objetivo do projeto é retornar a cotação do dólar.
 
-Data do projeto: 28/03/2020
+# Project setup
+```
+Type the commands here
+```
+
+### Compiles and hot-reloads for development
+```
+Type the commands here
+```
+
+<b>Thank you for your support!</b>
+
+# Preview
+<img src="overview.png" alt="What the fuck is going on here?" />
 
 
-Framework utilizado:
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# How is the development of the project right now?
+<b>Last update:</b> 01/03/2021
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+The last time I coded this was last year, so, I think that I need to open this and see what I need to change hahahha
 
-## About Laravel
+<br/>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# Credits
+
+Lorem ipsum dolor sit amet
+
+<i>Stay awesome Gothan!</i>
+  
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#HGBrasil-and-Laravel-dolar-cotation)
